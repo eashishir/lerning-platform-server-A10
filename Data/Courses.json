@@ -19,7 +19,7 @@
     "category_id": "02",
     "title": "Variables",
     "image_url": "https://blog.alexdevero.com/wp-content/uploads/2020/02/24-02-20-javascript-variables-pt1-blog.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "details": "A JavaScript variable is simply a name of storage location.There are two types of variables in JavaScript : local variable and global variable.There are some rules while declaring a JavaScript variable (also known as identifiers).1:Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign. 2:After first letter we can use digits (0 to 9),for example value1.3:JavaScript variables are case sensitive, for example x and X are different variables."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
@@ -30,7 +30,7 @@
     "category_id": "03",
     "title": "Async & Await",
     "image_url": "https://miro.medium.com/max/1200/1*KeSreLBdn5kB1rQtLnV6tg.jpeg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "details": "There’s a special syntax to work with promises in a more comfortable fashion, called “async/await”. It’s surprisingly easy to understand and use.The word “async” before a function means one simple thing: a function always returns a promise. Other values are wrapped in a resolved promise automatically.So, async ensures that the function returns a promise, and wraps non-promises in it. Simple enough, right? But not only that. There’s another keyword, await, that works only inside async functions, and it’s pretty cool.The keyword await makes JavaScript wait until that promise settles and returns its result.The function execution “pauses” at the line (*) and resumes when the promise settles, with result becoming its result. So the code above shows “done!” in one second.Let’s emphasize: await literally suspends the function execution until the promise settles, and then resumes it with the promise result. That doesn’t cost any CPU resources, because the JavaScript engine can do other jobs in the meantime: execute other scripts, handle events, etc.It’s just a more elegant syntax of getting the promise result than promise.then. And, it’s easier to read and write."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
