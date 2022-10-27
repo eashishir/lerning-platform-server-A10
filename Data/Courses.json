@@ -41,7 +41,7 @@
     "category_id": "04",
     "title": "Objects",
     "image_url": "https://blog.alexdevero.com/wp-content/uploads/2021/01/25-01-21-how-to-access-object-properties-in-javascript-in-three-ways-blog.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "details": "The Object type represents one of JavaScript's data types. It is used to store various keyed collections and more complex entities. Objects can be created using the Object() constructor or the object initializer / literal syntax.Nearly all objects in JavaScript are instances of Object; a typical object inherits properties (including methods) from Object.prototype, although these properties may be shadowed (a.k.a. overridden). However, an Object may be deliberately created for which this is not true (e.g. by Object.create(null)), or it may be altered so that this is no longer true (e.g. with Object.setPrototypeOf).Changes to the Object prototype object are seen by all objects through prototype chaining, unless the properties and methods subject to those changes are overridden further along the prototype chain. This provides a very powerful although potentially dangerous mechanism to override or extend object behavior."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
@@ -52,7 +52,7 @@
     "category_id": "05",
     "title": "Condition",
     "image_url": "https://s3-us-west-2.amazonaws.com/cleverbeagle-uploads/What-is-Conditional-Logic-in-JavaScript.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "details": "The if statement executes a statement if a specified condition is truthy. If the condition is falsy, another statement in the optional else clause will be executed.There are times in JavaScript where you might consider using a switch statement instead of an if else statement.switch statements can have a cleaner syntax over complicated if else statements.Take a look at the example below – instead of using this long if else statement, you might choose to go with an easier to read switch statement."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
